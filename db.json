@@ -3,48 +3,42 @@
     {
       "id": 1,
       "subject": "Math",
-      "title": "Homework 1",
-      "description": "Solve the following equations: 3x + 2 = 5, 4x - 5 = 13",
+      "title": "Calculus",
       "dueDate": "2022-01-15",
       "noOfSubmissions": 15
     },
     {
       "id": 2,
       "subject": "English",
-      "title": "Homework 2",
-      "description": "Write a paragraph about the benefits of learning a new language.",
+      "title": "Literature",
       "dueDate": "2022-01-16",
       "noOfSubmissions": 10
     },
     {
       "id": 3,
       "subject": "Science",
-      "title": "Homework 3",
-      "description": "Explain the process of photosynthesis and identify the roles of the sun, chlorophyll, and water in this process.",
+      "title": "Environmental Management",
       "dueDate": "2022-01-17",
       "noOfSubmissions": 25
     },
     {
       "id": 4,
       "subject": "History",
-      "title": "Homework 4",
-      "description": "Research and write a brief report on the importance of civil rights movements in American history.",
+      "title": "Colonialism in Southeast Asia",
       "dueDate": "2022-01-18",
       "noOfSubmissions": 20
     },
     {
       "id": 5,
       "subject": "Art",
-      "title": "Homework 5",
-      "description": "Create a self-portrait that incorporates various artistic styles.",
+      "title": "Fruit Painting",
       "dueDate": "2022-01-19",
       "noOfSubmissions": 30
     },
     {
       "id": 6,
       "subject": "Geography",
-      "title": "Homework 6",
-      "description": "Identify the physical and cultural characteristics of a region you are familiar with.",
+      "title": "Urban Planning",
       "dueDate": "2022-01-20",
       "noOfSubmissions": 10
     }
